@@ -3,8 +3,8 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 type: 'Bug'
-labels: ''
-assignees: ''
+labels: 'bug'
+assignees: 'AlexProgrammerDE'
 
 ---
 
