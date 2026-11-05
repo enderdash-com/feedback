@@ -1,7 +1,7 @@
 # Get help
 
 Read the [README](README.md) and [contribution guide](CONTRIBUTING.md) for setup and development instructions.
-For usage questions, use [EnderDash Discord](https://enderdash.com/discord).
+For usage questions, use [Enderdash Discord](https://enderdash.com/discord).
 
 For a reproducible defect or feature request, use [the issue tracker](https://github.com/enderdash-com/feedback/issues).
 Name the repository and affected version in reports sent to a shared tracker.
@@ -9,7 +9,7 @@ Search existing reports before opening another issue. Add new evidence to an exi
 
 ## Details that help
 
-Affected EnderDash component and application/agent versions, browser/OS or game platform, deployment type, and redacted reproduction details.
+Affected Enderdash component and application/agent versions, browser/OS or game platform, deployment type, and redacted reproduction details.
 
 Include the failing step, expected result, actual result, and a minimal reproduction.
 Use text for logs and commands. Use screenshots for visible problems.

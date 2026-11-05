@@ -1,4 +1,4 @@
-# EnderDash feedback
+# Enderdash feedback
 
 This repository tracks product defects and feature requests. It does not contain the application source.
 

@@ -42,7 +42,7 @@ body:
   id: environment
   attributes:
     label: Versions and environment
-    description: Affected EnderDash component and application/agent versions, browser/OS or game platform,
+    description: Affected Enderdash component and application/agent versions, browser/OS or game platform,
       deployment type, and redacted reproduction details.
   validations:
     required: true
